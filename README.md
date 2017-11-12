@@ -1,1 +1,1 @@
-# ltp-html5-specialist
+# Bootsy's HTML5 Specialist Repository
